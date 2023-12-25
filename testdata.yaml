@@ -1,0 +1,24 @@
+address: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 3
+login: "stas2010"
+passwd: "354282beb8"
+
+name: "Леонид"
+email: "funt_88@mail.ru"
+content: "Whats up!"
+
+fromaddr: "kds360@mail.ru"
+toaddr: "kds360@mail.ru"
+fromaddr_passwd: "fB56hZ2RpxtbVNuwb0z6"
+file: "log.txt"
+letter_body: "Отчет"
+
+title: "оценка 4"
+description: "Выполнена"
+content_2: "Проверить"
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: 2T-Any
